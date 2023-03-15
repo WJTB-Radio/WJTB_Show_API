@@ -54,3 +54,7 @@ This will return a list of all the shows that run on that day.
   ]
 }
 ```
+
+## create_db.sh
+
+This script initializes the database, make sure to run it at the start of every semester.
