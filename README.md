@@ -24,9 +24,9 @@ If there is no show playing, it will return this:
 }
 ```
 
-#### /api/shows/<day>
+#### /api/shows/\<day\>
 
-where <day> is monday, tuesday, wednesday, thursday, or friday.
+where \<day\> is monday, tuesday, wednesday, thursday, or friday.
 
 This will return a list of all the shows that run on that day.
 
