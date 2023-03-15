@@ -1,5 +1,5 @@
 # WJTB_Show_API
-API for getting the shows on the site.
+API that allows wjtb.njit.edu to display information about shows.
 
 #### /api/playing
 
